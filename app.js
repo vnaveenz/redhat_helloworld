@@ -1,2 +1,2 @@
-// JUST TESTING from GITHUB
+// JUST TESTING
 console.log("Hello World!\n");
